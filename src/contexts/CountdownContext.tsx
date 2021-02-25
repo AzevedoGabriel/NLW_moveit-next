@@ -1,6 +1,6 @@
 import { createContext, ReactNode } from "react";
 
-interface CountDownContextData {
+interface  CountDownContextData {
 
 }
 
